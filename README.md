@@ -26,3 +26,35 @@ ProjectSteps:
 -
 
 4. Install and Configure SonarCube Scanner in Jenkins Pipeline:
+- Copy project key from SonarCube for later use.
+- Create a token in Sonar Cube with a 30-day expiry.
+- Install SonarCube plugin and SSH plugin in Jenkins.
+- Configure SonarCube scanner in Global Tool Configuration.
+- Configure SonarCube server in Jenkins system settings.
+- Add build step in Jenkins pipeline for SonarCube scanning.
+- Paste the project key and SonarCube token.
+- Save configurations and verify the SonarCube scan status.
+
+
+5. Deploy Code on Docker:
+- Install Docker on the EC2 instance.
+- Configure Docker and update packages.
+
+
+6. Executing Remote Commands on Docker Server:
+- Configure Jenkins system with Docker server details.
+- Run remote commands on Docker server.
+- Create Dockerfile and copy contents to Docker server.
+
+
+7. Deploying Code on Docker Container and Accessing it through a Browser:
+- Create a Docker repository and move it to a remote server using SCP command.
+- Configure Jenkins pipeline, build the code,and verify success.
+- Fix permission denied error for running Docker commands.
+- Build Docker image and run a container.
+- Allow port 8085 for accessing the running container.
+- Verify website functionality and address any CSS loading issues.
+
+**Summary**:
+
+Bycompletingthisproject,youwillhavedevelopedahands-onunderstandingofbuildingacomprehensiveCI/CDpipelineusingGitHub,Jenkins,SonarCube,andDocker.Thispipelinenotonlyenhancestheefficiencyofcodedevelopmentbutalsoensureshigh-qualitycodebyincorporatingautomatedtestingandsecuritychecks. 
