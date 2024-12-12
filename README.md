@@ -57,4 +57,4 @@ The goal of this project is to create an end to end CI/CD pipeline that automate
 
 **Summary**:
 
-Completing this project,enhances a hands on understanding of building a comprehensive CI/CD pipeline using GitHub,Jenkins,SonarCube,and Docker.This pipeline not only enhances the efficiency of code development but also ensures high-quality code by incorporating automated testing and security checks. 
+Completing this project, enhances a hands on understanding of building a comprehensive CI/CD pipeline using GitHub, Jenkins, SonarCube,and Docker.This pipeline not only enhances the efficiency of code development but also ensures high-quality code by incorporating automated testing and security checks. 
