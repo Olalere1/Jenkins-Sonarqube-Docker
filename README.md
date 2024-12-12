@@ -1,8 +1,8 @@
-# ProjectOverview
+# Project Overview
 
 The goal of this project is to create an end to end CI/CD pipeline that automates the process of code integration,testing for bugs and vulnerabilities using SonarCube,and deploying the code in Docker containers.The pipeline will be orchestrated through Jenkins, providing an efficient and streamlined workflow.
 
-ProjectSteps:
+**Project Steps**:
 
 1. Setting Up Jenkins for Automated Pipeline:
 - Update the machine and install Java runtime environment.
@@ -57,4 +57,4 @@ ProjectSteps:
 
 **Summary**:
 
-Bycompletingthisproject,youwillhavedevelopedahands-onunderstandingofbuildingacomprehensiveCI/CDpipelineusingGitHub,Jenkins,SonarCube,andDocker.Thispipelinenotonlyenhancestheefficiencyofcodedevelopmentbutalsoensureshigh-qualitycodebyincorporatingautomatedtestingandsecuritychecks. 
+Completing this project,enhances a hands on understanding of building a comprehensive CI/CD pipeline using GitHub,Jenkins,SonarCube,and Docker.This pipeline not only enhances the efficiency of code development but also ensures high-quality code by incorporating automated testing and security checks. 
